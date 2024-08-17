@@ -44,3 +44,6 @@ h2{
   left: -10px;
   top: 390px;
 }
+#planodfundo{
+  background-image: url(imgfundo.jpg);
+}
