@@ -2,8 +2,9 @@
     padding-left: 100px;
 }
 .titulos{
-    background-color: black;
-    padding: 30px;
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
 }
 p{
     text-align: center;
