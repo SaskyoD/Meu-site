@@ -1,9 +1,9 @@
 .titulo-principal{
     background-color: darkred;
-    padding-left: 300px;
+    padding-left: 20px;
+    font-size: 60px;
 }
 .titulos{
-    background-color: white;
     width: 940px;
     position: relative;
     margin: 0 auto;
