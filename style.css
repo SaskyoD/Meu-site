@@ -1,18 +1,29 @@
+header{
+    background-color: hsl(0, 76%, 23%);
+}
 .titulo-principal{
-    background-color: darkred;
-    padding-left: 20px;
-    font-size: 60px;
+    font-size: 80px;
+    color: white;
+    position: relative;
+    left: 150px;
+    top: 100px;
 }
 .titulos{
     width: 940px;
+    color: white;
     position: relative;
     margin: 0 auto;
 }
 p{
     font-size: 20px;
     font-weight: bold;
+    color: white;
+    position: relative;
+    left: 800px;
+    top: 200px;
 }
 #modelo{
     font-size: 20px;
     font-weight: bold;
+    color: white;
 }
