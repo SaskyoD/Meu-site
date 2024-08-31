@@ -3,7 +3,7 @@ header{
     padding: 0 15px;
 }
 body{
-    background-image: url(planodfundo.jpg);
+    background: url(planodfundo.jpg);
   }
 .titulo-principal{
     font-size: 80px;
