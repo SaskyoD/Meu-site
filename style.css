@@ -2,6 +2,9 @@ header{
     background-color: hsl(0, 76%, 23%);
     padding: 0 15px;
 }
+body{
+    background-image: url(planodfundo.jpg);
+  }
 .titulo-principal{
     font-size: 80px;
     color: white;
