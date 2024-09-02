@@ -1,33 +1,30 @@
-header{
-    background-color: hsl(0, 76%, 23%);
-    padding: 0 15px;
+#header{
+    background-color: hsl(0, 77%, 26%);
+    padding: 10px;
 }
 body{
-    background: url(planodfundo.jpg);
-  }
-.titulo-principal{
-    font-size: 80px;
-    color: white;
-    position: relative;
-    left: 150px;
-    top: 100px;
+    margin: 0;
 }
-.titulos{
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    color: white; 
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: unset;
+    text-decoration: none;
+}
+.caixa{
     width: 940px;
-    color: white;
     position: relative;
     margin: 0 auto;
+    left: 850px;
 }
-p{
-    font-size: 20px;
-    font-weight: bold;
-    color: white;
+.linha{
+    height: 500px;
+    border-left: 2px solid;
     position: relative;
-    left: 800px;
-    top: 200px;
-}
-#modelo{
-    font-size: 20px;
-    font-weight: bold;
-    color: white;
+    left: 35px;
 }
