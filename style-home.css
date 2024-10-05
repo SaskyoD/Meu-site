@@ -12,12 +12,12 @@ header{
 body{   
     color: white;
     background: linear-gradient(45deg,rgb(9, 9, 31), black,green,rgb(5, 5, 43),black);
-    background-size: 300% 300%;
+    background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     margin: 0px;
     
     min-width: 320px;
-    max-width: 2560px;
+    max-width: 1369px;
     margin: auto;
 }
 @keyframes gradient {
