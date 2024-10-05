@@ -1,0 +1,167 @@
+header{
+    background-color: black;
+    padding: 0 25px;
+    position: relative;
+    height: 150px;
+
+    min-width: 320px;
+    max-width: 2560px;
+    margin: auto;
+    
+}
+body{   
+    color: white;
+    background: linear-gradient(45deg,rgb(9, 9, 31), black,green,rgb(5, 5, 43),black);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    margin: 0px;
+    
+    min-width: 320px;
+    max-width: 2560px;
+    margin: auto;
+}
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+    
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+    position: relative;
+    top: 60px;
+    right: 160px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+nav a {
+    color: white; 
+    font-size: 18px;
+    text-transform: unset;
+    text-decoration: none;
+}
+.seleção{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+    left: 830px;
+    top: 50px;
+    
+}
+.seleção:active{
+    color: greenyellow;
+}
+h1{
+    font-size: 75px;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman',  serif;
+    position: relative;
+    left: 90px;
+    bottom: 110px;
+}
+h1:hover{
+    color: greenyellow;
+}
+.logo200{
+    position: relative;
+    top: 1px;
+}
+h2{
+    font-size: 70px;
+    margin-left: 200px;
+    margin-right: 600px;
+    padding-right: 50px;
+    margin-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+h2:hover{
+    color: greenyellow;
+    
+}
+p{
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 400px;
+    margin-top: 60px;
+    
+}
+.botão{
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+
+    display: inline-block;
+    box-sizing: border-box;
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;  
+    margin-right: 160px; 
+    padding: 10px;
+   
+}
+.image{
+    position: relative;
+    left: 800px;
+    bottom: 550px;
+
+}
+.fonte1{
+    font-size: 12px;
+    position: relative;
+    bottom: 610px;
+    left: 680px;
+}
+.div1{
+    position: relative;
+    top: 20px;
+    box-sizing: border-box;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px; 
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    height: 700px;
+}
+footer{
+    text-align: center;
+    background-color:black;
+    padding: 50px 0;
+    position: relative;
+    top: 50px;
+
+    min-width: 320px;
+    max-width: 2560px;
+    margin: auto;
+}
+.logo{
+    display: inline;
+}
+.fonte2{
+    font-size: 13px;
+    position: relative;
+    bottom: 40px;
+    left: 100px;
+}
+.cor-letra{
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+    position: relative;
+    bottom: 40px;
+}
