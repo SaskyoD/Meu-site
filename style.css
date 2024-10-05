@@ -1,0 +1,696 @@
+header{
+    background-color: black;
+    height: 100px;
+    
+    min-width: 320px;
+    max-width: 2560px;
+    margin: auto;
+}
+body{
+    color: white;
+    margin: 0px;
+    background-color: rgb(2, 2, 37);
+
+    min-width: 320px;
+    max-width: 2560px;
+    margin: auto;
+
+}
+nav li{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    display: inline;
+    position: relative;
+    bottom: 100px;
+    left: 1090px;
+
+}
+nav a {
+    color: white; 
+    font-size: 18px;
+    text-transform: unset;
+    text-decoration: none;
+}
+.titulo1{
+   font-size: 65px;
+   text-transform: uppercase;
+   position: relative;
+   left: 90px;
+   bottom: 90px;
+   color: white;
+    
+}
+.logo100{
+    position: relative;
+    bottom: 10px;
+}
+.titulo-esboço{
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 300px;
+    top: 50px;
+    right: 300px;
+}  
+.caixa2{
+    position: relative;
+    top: 30px;
+    box-sizing: border-box;
+    border-color: rgb(2,3,24);
+    background-color:rgb(2, 3, 24) ;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 70px;
+    height: 1300px;
+}
+.title1{
+    position: relative;
+    left: 300px;
+    top: 100px;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.linha1{
+    width: 25px;
+    height: 1px;
+    background-color: greenyellow;
+    margin: 0 auto;
+    position: absolute;
+    top: 225px;
+    left: 580px;
+}
+.one1{
+    position: relative;
+    left: 600px;
+    top: 65px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;
+}
+.title2{
+    position: relative;
+    left: 300px;
+    top: 60px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linha2{
+    width: 25px;
+    height: 2px;
+    background-color: greenyellow;
+    margin: 0 auto;
+    position: absolute;
+    top: 390px;
+    left: 650px;
+}
+.one2{
+    position: relative;
+    left: 600px;
+    top: 95px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93,151,7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;
+}
+.title3{
+    position: relative;
+    left: 680px;
+    top: 135px;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title4{
+    position: relative;
+    left: 680px;
+    top: 95px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linha3{
+    width: 25px;
+    height: 1px;
+    background-color: greenyellow;
+    margin: 0 auto;
+    position: absolute;
+    top: 565px;
+    left: 580px;
+}
+.one3{
+    position: relative;
+    left: 600px;
+    top: 105px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;
+}
+.title5{
+    position: relative;
+    left: 300px;
+    top: 170px;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.title6{
+    position: relative;
+    left: 300px;
+    top: 130px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.linha4{
+    width: 25px;
+    height: 2px;
+    background-color: greenyellow;
+    margin: 0 auto;
+    position: absolute;
+    top: 750px;
+    left: 650px;
+}
+.one4{
+    position: relative;
+    left: 600px;
+    top: 175px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;
+}
+.title7{
+    position: relative;
+    left: 680px;
+    top: 215px;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.title8{
+    position: relative;
+    left: 680px;
+    top: 175px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.linha{
+    width: 1px;
+    height: 905px;
+    background-color: greenyellow;
+    margin: 0 auto;
+    position: absolute;
+    top: 210px;
+    left: 625px;
+}
+.linha5{
+    width: 25px;
+    height: 2px;
+    background-color: greenyellow;
+    margin: 0 auto;
+    position: absolute;
+    top: 935px;
+    left: 580px;
+}
+.one5{
+    position: relative;
+    left: 600px;
+    top: 195px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;   
+}
+.title9{
+    position: relative;
+    left: 300px;
+    top: 255px;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.title10{
+    position: relative;
+    left: 300px;
+    top: 215px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.linha6{
+    width: 25px;
+    height: 2px;
+    background-color: greenyellow;
+    margin: 0 auto;
+    position: absolute;
+    top: 1135px;
+    left: 650px;
+}
+.one6{
+    position: relative;
+    left: 600px;
+    top: 235px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;   
+}
+.title11{
+    position: relative;
+    left: 680px;
+    top: 295px;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+.title12{
+    position: relative;
+    left: 680px;
+    top: 255px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;      
+}
+.segunda-caixa{
+    position: relative;
+    top: 350px;
+    box-sizing: border-box;
+    border-color: rgb(2,3,24);
+    background-color:rgb(2, 3, 24) ;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
+    height: 480px;
+}
+.titulo-mangá{
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 235px;
+    top: 50px;
+    right: 300px;   
+}
+.anatomia{
+    position: absolute;
+    left: 60px;
+    top: 180px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    text-decoration: underline;
+}
+.paragrafo1{
+    position: absolute;
+    left: 85px;
+    top: 275px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.movimento{
+    position: absolute;
+    left: 460px;
+    top: 180px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    text-decoration: underline;
+}
+.paragrafo2{
+    position: absolute;
+    left: 485px;
+    top: 275px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.linhas-expressivas{
+    position: absolute;
+    left: 870px;
+    top: 180px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    text-decoration: underline;
+}
+.paragrafo3{
+    position: absolute;
+    left: 895px;
+    top: 275px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.terceira-caixa{
+    position: relative;
+    top: 350px;
+    box-sizing: border-box;
+    border-color: rgb(2,3,24);
+    background-color:rgb(2, 3, 24) ;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
+    top: 390px;
+    height: 680px;
+}
+.esboço{
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 235px;
+    top: 50px;
+    right: 300px; 
+}
+.n1{
+    position: absolute;
+    left: 220px;
+    top: 235px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;      
+}
+.exagero{
+    position: absolute;
+    left: 290px;
+    top: 215px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;      
+}
+.p1{
+    position: absolute;
+    left: 315px;
+    top: 295px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.expressoes{
+    position: absolute;
+    left: 710px;
+    top: 215px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.n2{
+    position: absolute;
+    left: 640px;
+    top: 235px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;        
+}
+.p2{
+    position: absolute;
+    left: 735px;
+    top: 295px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.n3{
+    position: absolute;
+    left: 220px;
+    top: 435px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px; 
+}
+.formas{
+    position: absolute;
+    left: 290px;
+    top: 415px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;      
+}
+.p3{
+    position: absolute;
+    left: 315px;
+    top: 465px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.n4{
+    position: absolute;
+    left: 645px;
+    top: 435px;
+    padding-left: 13px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(93, 151, 7);
+    width: 40px;
+    height: 50px;
+    border-radius: 10px; 
+}
+.linhas{
+    position: absolute;
+    left: 710px;
+    top: 415px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+.p4{
+    position: absolute;
+    left: 735px;
+    top: 495px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.ilustration{
+    font-size: 65px;
+    text-transform: uppercase;
+    position: relative;
+    left: 100px;
+    top: 13px;
+}
+.llogo{
+    position: absolute;
+    bottom: 670px;
+}
+.llista{
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    margin: 0 0 0 15px;
+    
+}
+.tecnicas-desenho{
+    position: relative;
+    top: 100px;
+    left: 300px;
+    font-size: 55px;
+}
+.imagem-tecnicas{
+    position: absolute;
+    left: 900px;
+    top: 180px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fonte3{
+    position: relative;
+    top: 1130px;
+    left: 1050px;
+    font-size: 12px;
+}
+.lapis-img{
+    position: absolute;
+    top: 330px;
+    left: 300px;
+}
+.lapis{
+    position: absolute;
+    left: 295px;
+    top: 400px;
+    font-size: 30px;
+}
+.paragrafo-um{
+    position: relative;
+    left: 305px;
+    top: 250px;
+    font-size: 20px;
+}
+.pincel-img{
+    position: absolute;
+    top: 550px;
+    left: 300px;
+}
+.pincel{
+    position: absolute;
+    left: 295px;
+    top: 620px;
+    font-size: 30px;
+}
+.paragrafo-dois{
+    position: relative;
+    left: 305px;
+    top: 410px;
+    font-size: 20px;
+}
+.tinta-img{
+    position: absolute;
+    top: 760px;
+    left: 280px;
+}
+.tinta{
+    position: absolute;
+    left: 295px;
+    top: 850px;
+    font-size: 30px;
+}
+.paragrafo-tres{
+    position: relative;
+    left: 305px;
+    top: 580px;
+    font-size: 20px;
+}
+.arte{
+    position: absolute;
+    left: 295px;
+    top: 1070px;
+    font-size: 30px;
+}
+.digital-img{
+    position: absolute;
+    top: 1000px;
+    left: 290px;
+}
+.digital{
+    position: relative;
+    left: 305px;
+    top: 740px;
+}
+.ilustration2{
+    font-size: 65px;
+    text-transform: uppercase;
+    position: relative;
+    left: 100px;
+    top: 13px;
+}
+.llogo2{
+    position: absolute;
+    bottom: 670px;
+}
+.llista2{
+    color: white;
+    position: relative;
+    right: 20px;
+    top: 100px;
+    margin: 0 0 0 15px;
+}
+.titulo-cores{
+    position: relative;
+    top: 100px;
+    left: 700px;
+    font-size: 55px;   
+}
+.imagem-cores{
+    position: absolute;
+    left: 205px;
+    top: 150px;
+}
+.fonte4{
+    position: relative;
+    top: 720px;
+    left: 350px;
+    font-size: 12px;
+}
+.container{
+    height: 250px;
+    position: absolute;
+    left: 700px;
+    top: 350px;
+    font-size: 20px;
+}
+.l1, .l2, .l3{
+    background-color: rgba(77, 99, 117, 0.63);
+}
+.titulo-exercite{
+    position: relative;
+    left: 700px;
+    top: 430px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.básico{
+    font-size: 30px;
+    position: relative;
+    top: 460px;
+    left: 700px;
+    background-color:  rgba(51, 51, 134, 0.63);
+    border-radius: 10px;
+    width: 270px;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.pratique{
+    position: relative;
+    top: 480px;
+    left: 700px;
+    font-size: 18px;
+}
+.domine{
+    font-size: 30px;
+    position: relative;
+    left: 700px;
+    top: 500px;
+    background-color:  rgba(51, 51, 134, 0.63);
+    border-radius: 10px;
+    width: 250px;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.desenhe{
+    position: relative;
+    top: 520px;
+    left: 700px;
+    font-size: 18px;
+}
+footer{
+    text-align: center;
+    background-color:black;
+    padding: 50px 0;
+    position: relative;
+    top: 620px;
+
+    min-width: 320px;
+    max-width: 2560px;
+    margin: auto;
+}
+.logol{
+    display: inline;
+}
+.copy{
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+    position: relative;
+    bottom: 10px;
+}
